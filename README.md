@@ -1,6 +1,6 @@
 ## 📊 RENFE Precios y Viajes – Dashboard Interactivo
 
-Este dashboard ha sido diseñado para visualizar y analizar datos relacionados con los precios y viajes de RENFE, la principal operadora ferroviaria de España. Utiliza una interfaz intuitiva y segmentada que permite explorar la información de forma clara y eficiente.
+Este dashboard ha sido diseñado para visualizar y analizar datos relacionados con los precios y viajes de RENFE. Utiliza una interfaz intuitiva y segmentada que permite explorar la información de forma clara y eficiente.
 
 ### 🧭 Navegación
 
