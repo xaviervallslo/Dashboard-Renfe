@@ -21,5 +21,5 @@ El panel está estructurado en cinco secciones principales, accesibles tanto des
 ### 🛠️ Tecnologías utilizadas
 
 - Power BI para la creación del dashboard.
-- Fuentes de datos estructuradas CSV.
+- Fuentes de datos estructuradas en formato CSV.
 - Integración con servicios de RENFE para actualización dinámica.
